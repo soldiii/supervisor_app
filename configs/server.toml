@@ -1,0 +1,5 @@
+addr = ":8080"
+log_level = "debug"
+
+[store]
+database_url = "host=localhost user=postgres password=postgres dbname=supervisor_app_bd sslmode=disable"
